@@ -1,0 +1,72 @@
+
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+
+      #map {
+        height: 400px;
+        width: 100%;
+      }
+      #mapEdit {
+        height: 400px;
+        width: 100%;
+      }
+
+      #infowindow-content .title {
+        font-weight: bold;
+      }
+
+      #infowindow-content {
+        
+      }
+
+      #map #infowindow-content {
+        display: inline;
+      }
+
+      #title {
+        color: #fff;
+        background-color: #4d90fe;
+        font-size: 25px;
+        font-weight: 500;
+        padding: 6px 12px;
+      }
+
+      #description {
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 300;
+      }
+
+      /* #pac-container {
+        padding-bottom: 12px;
+        margin-right: 12px;
+        position: fixed;
+        display: inline-block;
+        float: left;
+      }
+
+      .pac-controls {
+        display: inline-block;
+        padding: 5px 11px;
+      }
+
+      .pac-controls label {
+        font-family: Roboto;
+        font-size: 13px;
+        font-weight: 300;
+      }
+
+      #pac-input {
+        background-color: #fff;
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 300;
+        margin-bottom: 10px;
+        text-overflow: ellipsis;
+      }
+
+      #pac-input:focus {
+        border-color: #4d90fe;
+      } */
+
+      
